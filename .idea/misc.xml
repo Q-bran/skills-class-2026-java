@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ASMSmaliIdeaPluginConfiguration">
+    <asm skipDebug="true" skipFrames="true" skipCode="false" expandFrames="false" />
+    <groovy codeStyle="LEGACY" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="GitLabDefaultAccount">
+    <option name="defaultAccountId" value="c38e38f6-a2f9-4e52-ba8d-dfabdb11006d" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="20e206b0-797b-459f-a04b-b29edca305ed" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" project-jdk-name="openjdk-23" project-jdk-type="JavaSDK" />
+</project>
